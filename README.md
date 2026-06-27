@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/NLTK-NLP-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
 
-# 🧠 Explainable NLP-Based Resume Screening & Candidate Rankin
+# 🧠 Explainable NLP-Based Resume Screening & Candidate Ranking
 
 ### An ATS-Grade Automated Recruitment Intelligence System
 
